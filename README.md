@@ -3,7 +3,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0mercy00&show_icons=true&theme=radical)
 
-  <br>
   <h3>🔨STACK🔧</h3>
                                                           
   <h3>I've been focusing on theseday</h3>
