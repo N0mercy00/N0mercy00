@@ -1,7 +1,5 @@
 <div align="center">
-  <h3>📑STATISTICS📊</h3>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0mercy00&show_icons=true&theme=radical)
+ 
 
   <h3>🔨student studying android🔧</h3>
                                                           
@@ -44,6 +42,11 @@
   <a href="https://www.notion.so/n0mercy00/N0mercy00-42091667ee4f4312ad4e1f7ef704c906" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:pby0757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
+
+ <h3>📑STATISTICS📊</h3>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0mercy00&show_icons=true&theme=radical)
+
 
 <!--
 **N0mercy00/N0mercy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
