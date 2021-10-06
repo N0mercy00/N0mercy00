@@ -3,7 +3,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0mercy00&show_icons=true&theme=radical)
 
-  <h3>🔨STACK🔧</h3>
+  <h3>🔨student studying android🔧</h3>
                                                           
   <h3>I've been focusing on theseday</h3>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <br>
   <br>
+  <!--
   <h4>that I've used at least once</h4>
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -37,7 +38,9 @@
   
   <br>
   <br>
+
   <h3>CONTACT</h3>
+-->
   <a href="https://www.notion.so/n0mercy00/N0mercy00-42091667ee4f4312ad4e1f7ef704c906" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:pby0757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
