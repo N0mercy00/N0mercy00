@@ -2,7 +2,8 @@
  
 
   Hi there🖐
-                                                          
+ 
+ <!--                                                    
   <h5>I've been focusing on theseday</h5>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -57,6 +58,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0mercy00&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0mercy00&theme=radical)
+
+-->
  
 </div>
 
